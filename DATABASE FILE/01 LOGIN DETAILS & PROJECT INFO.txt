@@ -1,0 +1,13 @@
+**Log on to codeastro.com for more projects!**
+
+**Database Name: laundrycim**
+
+**Developed by Nursyahrina**
+
+**Recommended PHP Version 7.4**
+
+
+**Login Details** 
+
+Username: admin
+Password: Password@123
